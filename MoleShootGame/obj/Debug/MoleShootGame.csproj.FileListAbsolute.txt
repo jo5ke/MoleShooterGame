@@ -1,0 +1,9 @@
+c:\users\joskeg\documents\visual studio 2017\Projects\MoleShootGame\MoleShootGame\bin\Debug\MoleShootGame.exe.config
+c:\users\joskeg\documents\visual studio 2017\Projects\MoleShootGame\MoleShootGame\bin\Debug\MoleShootGame.exe
+c:\users\joskeg\documents\visual studio 2017\Projects\MoleShootGame\MoleShootGame\bin\Debug\MoleShootGame.pdb
+c:\users\joskeg\documents\visual studio 2017\Projects\MoleShootGame\MoleShootGame\obj\Debug\MoleShootGame.csprojResolveAssemblyReference.cache
+c:\users\joskeg\documents\visual studio 2017\Projects\MoleShootGame\MoleShootGame\obj\Debug\MoleShootGame.Form1.resources
+c:\users\joskeg\documents\visual studio 2017\Projects\MoleShootGame\MoleShootGame\obj\Debug\MoleShootGame.Properties.Resources.resources
+c:\users\joskeg\documents\visual studio 2017\Projects\MoleShootGame\MoleShootGame\obj\Debug\MoleShootGame.csproj.GenerateResource.Cache
+c:\users\joskeg\documents\visual studio 2017\Projects\MoleShootGame\MoleShootGame\obj\Debug\MoleShootGame.exe
+c:\users\joskeg\documents\visual studio 2017\Projects\MoleShootGame\MoleShootGame\obj\Debug\MoleShootGame.pdb
